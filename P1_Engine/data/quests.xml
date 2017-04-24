@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Quests>
+	<Entry questID="Q0000" hasOption="false" target="Q0001" hasName="true" hasEvent="false">
+		<Name>Nashaar</Name>
+		<Text>Je ne sais pas ce qu'ils ont prévus pour toi, mais ce ne sera pas simple</Text>
+	</Entry>
+	
+	
+	<Entry questID="Q0001" hasOption="true" target="None" hasName="true" hasEvent="false">
+		<Name>Nashaar</Name>
+		<Text>Veux-tu renoncer ?</Text>
+		<Options>
+			<Option target="Q0010" text="Oui"/>
+			<Option target="Q0020" text="Non"/>
+		</Options>
+	</Entry>
+	
+	
+	<Entry questID="Q0010" hasOption="false" target="None" hasName="true" hasEvent="false">
+		<Name>Nashaar</Name>
+		<Text>Reviens me voir quand tu sera pret</Text>
+	</Entry>
+	
+	
+	<Entry questID="Q0020" hasOption="false" target="None" hasName="true" hasEvent="false">
+		<Name>Nashaar</Name>
+		<Text>Commencons</Text>
+	</Entry>
+	
+	
+	<Entry questID="Q1000" hasOption="false" target="None" hasName="true" hasEvent="true">
+		<Name>Marchand</Name>
+		<Text>Jettez un coup d'oeil à mes marchandises !</Text>
+		<Event eventID="V0000" eventType="Vente"/>
+	</Entry>
+</Quests>

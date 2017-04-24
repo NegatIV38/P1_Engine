@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ACTOR">
+      <UniqueIdentifier>{50c3b2d3-bf7d-4193-aced-b72ce505a682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\OBJET">
+      <UniqueIdentifier>{f5581ff5-3fd2-4f4d-81f8-54a73d5eccfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ACTOR">
+      <UniqueIdentifier>{9e560dd2-319a-4b6c-893a-730aae1c9527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\OBJET">
+      <UniqueIdentifier>{438c9131-80e9-4bbb-8148-5a22c613aa2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\FILES_MGR">
+      <UniqueIdentifier>{f998649c-ecad-401e-a8da-4bfa2ff8469b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\FILES_MGR">
+      <UniqueIdentifier>{6b1e0966-2536-4da1-ad1b-c9fd2a09ff1d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialogue.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Layer.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="P1_Engine.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>Fichiers sources\ACTOR</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Fichiers sources\ACTOR</Filter>
+    </ClCompile>
+    <ClCompile Include="Personnage.cpp">
+      <Filter>Fichiers sources\ACTOR</Filter>
+    </ClCompile>
+    <ClCompile Include="VendorMenu.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestsMgr.cpp">
+      <Filter>Fichiers sources\FILES_MGR</Filter>
+    </ClCompile>
+    <ClCompile Include="EventsMgr.cpp">
+      <Filter>Fichiers sources\FILES_MGR</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects_Mgr.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Splashscreen.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleMgr.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleUI.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="RdF_Battle.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Battler.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dialogue.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Layer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Filter.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="P1_Engine.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.h">
+      <Filter>Fichiers d%27en-tête\ACTOR</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Fichiers d%27en-tête\ACTOR</Filter>
+    </ClInclude>
+    <ClInclude Include="Personnage.h">
+      <Filter>Fichiers d%27en-tête\ACTOR</Filter>
+    </ClInclude>
+    <ClInclude Include="VendorMenu.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="EventsMgr.h">
+      <Filter>Fichiers d%27en-tête\FILES_MGR</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestsMgr.h">
+      <Filter>Fichiers d%27en-tête\FILES_MGR</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects_Mgr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Splashscreen.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleMgr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleUI.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="RdF_Battle.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Battler.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

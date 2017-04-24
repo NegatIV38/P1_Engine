@@ -1,0 +1,49 @@
+﻿  Actor.cpp
+  BackgroundUI.cpp
+  Camera.cpp
+Camera.cpp(6): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+Camera.cpp(7): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Character.cpp
+  Constants.cpp
+  Dialogue.cpp
+Dialogue.cpp(37): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Dialogue.cpp(39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Dialogue.cpp(57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Dialogue.cpp(92): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+  D:\Program Files\SFML-2.4.1\include\SFML/Graphics/Text.hpp(177): note: voir la déclaration de 'sf::Text::setColor'
+Dialogue.cpp(104): warning C4018: '>' : incompatibilité signed/unsigned
+Dialogue.cpp(117): warning C4018: '<' : incompatibilité signed/unsigned
+Dialogue.cpp(161): warning C4244: 'argument' : conversion de 'const float' en 'unsigned int', perte possible de données
+Dialogue.cpp(167): warning C4018: '<' : incompatibilité signed/unsigned
+Dialogue.cpp(168): warning C4018: '<' : incompatibilité signed/unsigned
+Dialogue.cpp(177): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+Dialogue.cpp(189): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+  D:\Program Files\SFML-2.4.1\include\SFML/Graphics/Text.hpp(177): note: voir la déclaration de 'sf::Text::setColor'
+  Functions.cpp
+Functions.cpp(11): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+Functions.cpp(17): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+Functions.cpp(62): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+Functions.cpp(63): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Layer.cpp
+  MainMenu.cpp
+MainMenu.cpp(57): warning C4244: 'argument' : conversion de 'std::size_t' en 'float', perte possible de données
+MainMenu.cpp(62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+MainMenu.cpp(68): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+  D:\Program Files\SFML-2.4.1\include\SFML/Graphics/Text.hpp(177): note: voir la déclaration de 'sf::Text::setColor'
+MainMenu.cpp(136): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+  D:\Program Files\SFML-2.4.1\include\SFML/Graphics/Text.hpp(177): note: voir la déclaration de 'sf::Text::setColor'
+  Maps.cpp
+  Personnage.cpp
+  Source.cpp
+d:\vsproj\p1_engine\p1_engine\Layer.h(115): warning C4018: '<' : incompatibilité signed/unsigned
+  d:\vsproj\p1_engine\p1_engine\Layer.h(114): note: lors de la compilation de la fonction membre '<Inconnu>' de la classe <Inconnu>
+  Source.cpp(256): note: voir la référence à l'instanciation de la fonction modèle 'void Layer<res::map::trees::TREES_0>::drawToScreen(sf::RenderWindow &)' en cours de compilation
+  Source.cpp(44): note: voir la référence à l'instanciation de la classe modèle 'Layer<res::map::trees::TREES_0>' en cours de compilation
+  Structures.cpp
+  Génération de code en cours
+  3211 of 3251 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    3087 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  P1_Engine.vcxproj -> D:\VSProj\P1_Engine\Release\P1_Engine.exe
+  P1_Engine.vcxproj -> D:\VSProj\P1_Engine\Release\P1_Engine.pdb (Full PDB)

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Objects>
+	<Entry objectID="O0000" objectType="Consommables">
+		<Name>Potion</Name>
+	</Entry>
+	
+	<Entry objectID="O0001" objectType="Consommables">
+		<Name>Queue de Phenix</Name>
+	</Entry>
+</Objects>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Actor" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAEAJAAAggAAEEBIAAIACAAAAQAAAAAAAAQAEAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundUI" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackgroundUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAIAAAICAQAAAAAAQAAAAAgEGAAAAABAEAAA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAABAAAAgAAAAAAAAEAAAAAQAoAAAAAACEAEKAA=</HashCode>
+      <FileName>Character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogue" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kACABACEQBAgBigEBkIAAAKCgECAEABQwBAEQAAAAAA=</HashCode>
+      <FileName>Dialogue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAABAAAAAAIAAAAAABAAAAAAAAAAQAAIAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Layer" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAgEAAAAAAAAAAAQAAAACAQEAEgIAAAEBAI=</HashCode>
+      <FileName>Layer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0CABEAAAKAACBAAQAAJEABCQIEgAQLCABEkFAAAAQBg=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Personnage" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Personnage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P1_Engine" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAgAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P1_Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="res::strc::Animation" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="res::map::map1::MAP1_0" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAgAAAAA=</HashCode>
+      <FileName>Maps.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::map::map1::MAP1_1" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Maps.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::map::trees::TREES_0" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAgAAAAA=</HashCode>
+      <FileName>Maps.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::map::trees::TREES_1" Collapsed="true">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABA=</HashCode>
+      <FileName>Maps.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::map::trees::TREES_2" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABA=</HashCode>
+      <FileName>Maps.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::enm::Direction" Collapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAABAQAQAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::enm::Shadow_Def" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QS8AAACBQCCAFgADIADhgQIABAAEQICgAAQAIBAAAAI=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::enm::MainStates" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAUAAAAAAA=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::enm::COMMANDS" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAIgAA=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="res::enm::FILE_TYPES" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAADgAAAAAAAAAAAA=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

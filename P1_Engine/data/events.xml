@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Events>
+	<Entry eventID="V0000" eventType="Vente">
+		<Name>Marchand</Name>
+		<Capital>1000</Capital>
+		<Objets>
+			<Objet objectID="O0000">
+				<Nom>Potion</Nom>
+				<Prix>50</Prix>
+				<Stock>3</Stock>
+				<Desc>Potion qui restaure 10 PV</Desc>
+			</Objet>
+			<Objet objectID="O0001">
+				<Nom>Queue de Phénix</Nom>
+				<Prix>100</Prix>
+				<Stock>1</Stock>
+				<Desc>Objet magique</Desc>
+			</Objet>
+		</Objets>
+	</Entry>
+
+	<Entry eventID="C0000" eventType="Combat">
+	</Entry>
+</Events>
